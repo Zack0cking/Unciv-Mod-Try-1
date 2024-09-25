@@ -8,8 +8,44 @@
 		"strength": 7,
 		"rangedStrength": 9,
 		"range": 2,
-		"cost": 600,
+		"cost": 45,
 		"requiredTech": "Archery",
 		"attackSound": "coconut attack"
-	}
+		"civilopediaText": [
+			{"text": "The Basic Follower of Coco-Goats, Enjoys throwing coconuts."}
+	]
+	},
+	
+	{
+		"name": "Pilgrim",
+		"unitType": "Armored",
+		"movement": 3,
+		"strength": 8,
+		"cost": 60,
+		"uniques": ["Cannot attack","May enter foreign tiles without open borders","Uncapturable"],
+		"requiredTech": "Writing",
+	},
+	
+	{
+		"name": "Ganyu C0",
+		"unitType": "Sige",
+		"uniqueTo": "Coco-Goats",
+		"movement": 3,
+		"strength": 15,
+		"rangedStrength": 22,
+		"range": 2,
+		"cost": 200,
+		"uniques":["Limited to [1] per Civilization","[3] sight","Must set up to ranged attack","Uncapturable","Can upgrade to [Ganyu C1]"],
+	},
+	{
+		"name": "Ganyu C1",
+		"unitType": "Sige",
+		"uniqueTo": "Coco-Goats",
+		"movement": 3,
+		"strength": 15,
+		"rangedStrength": 22,
+		"range": 2,
+		"uniques":["Limited to 1 per Civilization","3 sight","Must set up to ranged attack","Uncapturable","Can upgrade to [unit]","[+20]% Strength","Unbuildable"],
+	},
+	
 ]
