@@ -33,9 +33,10 @@
 		"movement": 3,
 		"strength": 15,
 		"rangedStrength": 22,
+		"sight": 3,
 		"range": 2,
 		"cost": 200,
-		"uniques":["Limited to [1] per Civilization","[3] sight","Must set up to ranged attack","Uncapturable","Can upgrade to [Ganyu C1]"],
+		"uniques":["Limited to [1] per Civilization","Must set up to ranged attack","Uncapturable","Can upgrade to [Ganyu C1]"],
 	},
 	{
 		"name": "Ganyu C1",
@@ -43,9 +44,11 @@
 		"uniqueTo": "Coco-Goats",
 		"movement": 3,
 		"strength": 15,
+	
 		"rangedStrength": 22,
+		"sight": 3,
 		"range": 2,
-		"uniques":["Limited to [1] per Civilization","[3] sight","Must set up to ranged attack","Uncapturable","[+20]% Strength","Unbuildable"],
+		"uniques":["Limited to [1] per Civilization","Must set up to ranged attack","Uncapturable","[+20]% Strength","Unbuildable"],
 	},
 	
 ]
