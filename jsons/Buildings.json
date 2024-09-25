@@ -1,2 +1,12 @@
 [
+  	{
+		"name": "Jade Chamber",
+    "uniqueTO": "Coco-Goats",
+		"isNationalWonder": true,
+    "production": 3,
+    "maintenance": 5,
+    "cost": 100,
+		"hurryCostModifier": 100,
+    "uniques": ["Limited to [1] per Civilization","Never destroyed when the city is captured"],
+	},
 ]
