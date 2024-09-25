@@ -28,7 +28,7 @@
 	
 	{
 		"name": "Ganyu C0",
-		"unitType": "Sige",
+		"unitType": "Siege",
 		"uniqueTo": "Coco-Goats",
 		"movement": 3,
 		"strength": 15,
@@ -39,7 +39,7 @@
 	},
 	{
 		"name": "Ganyu C1",
-		"unitType": "Sige",
+		"unitType": "Siege",
 		"uniqueTo": "Coco-Goats",
 		"movement": 3,
 		"strength": 15,
