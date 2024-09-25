@@ -45,7 +45,7 @@
 		"strength": 15,
 		"rangedStrength": 22,
 		"range": 2,
-		"uniques":["Limited to 1 per Civilization","3 sight","Must set up to ranged attack","Uncapturable","Can upgrade to [unit]","[+20]% Strength","Unbuildable"],
+		"uniques":["Limited to [1] per Civilization","[3] sight","Must set up to ranged attack","Uncapturable","[+20]% Strength","Unbuildable"],
 	},
 	
 ]
