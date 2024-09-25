@@ -10,7 +10,6 @@
 		"range": 2,
 		"cost": 600,
 		"requiredTech": "Archery",
-		"promotions": ["Accuracy I","Accuracy II","Accuracy III","Barrage I","Barrage II","Barrage III","Extended Range","Heal Instantly"],
 		"attackSound": "coconut attack"
 	}
 ]
